@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "3aa244b0-6f01-41b8-b045-718ea242a247",
+		"name": "Hello",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34563076"
+	},
+	"item": [
+		{
+			"name": "Get Hello World",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
